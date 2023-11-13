@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erik Jusufi
-- 👀 I’m interested in data science, machine learning, game development
+- 👀 I’m interested in data science, machine learning, game development and various other fields.
 - 📫 How to reach me: jusufi.erik@gmail.com
 
 <!---
